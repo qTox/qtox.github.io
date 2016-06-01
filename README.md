@@ -1,4 +1,4 @@
-# tox.github.io
+# qtox.github.io
 Here in the depths of the Internet lies the repository for the qTox website and
 blog.
 
